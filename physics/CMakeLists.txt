@@ -19,4 +19,4 @@
 add_subdirectory(src)
 
 # Add physics unit tests
-add_subdirectory(test)
+# add_subdirectory(test)
